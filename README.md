@@ -27,10 +27,10 @@ To install the packages, use the command "pip3 install <package-name>" in the te
 
 ## Program Report
 
-I'll explain shortly about centroids initialization process and then I'll present result graphs describing the average loss/cost value as a function of the iterations for K=2,4,8,16.
+I'll explain shortly about the centroids initialization process and then I'll present result graphs describing the average loss/cost value as a function of the iterations for K=2,4,8,16.
 
 #### The Centroids Initialization Process:
-By using the short program "centroidsGenerator.py" (in this repo) that gets an integer number K as argument, we can generate K strings of 3 random floats between 0 to 1, and write them to an output file named "randomCents.txt".
+By using the short program "centroidsGenerator.py" (in this repo) that gets an integer number K as an argument, we can generate K strings of 3 random floats between 0 to 1, and write them to an output file named "randomCents.txt".
  
 #### Results:
 	
@@ -39,16 +39,16 @@ By using the short program "centroidsGenerator.py" (in this repo) that gets an i
 
 ## Instructions
 
-1. Make sure your system meet the requirements above.
+1. Make sure your system meets the requirements above.
 2. Download the code and the dataset from this repo.
 3. Open the terminal and run "python3 kmeans.py dog.jpeg randomCents.txt out.txt"
 
-You can use different centroids initialization file or output log file.
+You can use different centroids initialization files or output log files.
 
 
 ## Screenshots
 
-Program's output log file content after running the algorithm with 2 cenroids:
+Program's output log file content after running the algorithm with 2 centroids:
 	
 ![image](https://user-images.githubusercontent.com/72878018/153748171-f7901890-632e-46c8-86e1-49cdbfd0c98c.png)
 	
