@@ -34,24 +34,7 @@ By using the short program "centroidsGenerator.py" (in this repo) that gets an i
  
 #### Results:
 	
-Test number 1 - K=2:
-	
-![image](https://user-images.githubusercontent.com/72878018/153748080-74915e12-b20e-4a52-8223-795f5921164d.png)
-
-	
-Test number 2 - K=4:
-	
-![image](https://user-images.githubusercontent.com/72878018/153748083-e979f866-00ab-4118-835c-b8b482437f4b.png)
-
-
-Test number 3 - K=8:
-	
-![image](https://user-images.githubusercontent.com/72878018/153748089-c9ea78df-a60f-4666-aa01-0532a98e0835.png)
-
-	
-Test number 4 - K=16:
-	
-![image](https://user-images.githubusercontent.com/72878018/153748091-139d9102-15f8-4c2a-9114-98d1c4590bfe.png)
+![image](https://user-images.githubusercontent.com/72878018/153748228-f30e51da-8e40-419c-84e6-8c54f58c0be9.png)
 
 
 ## Instructions
@@ -66,4 +49,5 @@ You can use different centroids initialization file or output log file.
 ## Screenshots
 
 Program's output in a terminal:
+	
 ![image](https://user-images.githubusercontent.com/72878018/153748171-f7901890-632e-46c8-86e1-49cdbfd0c98c.png)
