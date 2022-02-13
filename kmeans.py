@@ -25,7 +25,7 @@ iterations = 0
 losses = []
 
 # K-Means algorithm:
-for iter in range(EPOCHS):
+for e in range(EPOCHS):
     if np.array_equal(centroids, previous_centroids):
         break
     iterations += 1
@@ -48,7 +48,7 @@ for iter in range(EPOCHS):
         centroids[key] = np.average(mapper[key], axis=0);
     losses.append(loss / total)
     centroids = centroids.round(4)
-    log.write(f"[iter {iter}]:{','.join([str(i) for i in centroids])}" + "\n")
+    log.write(f"[iter {e}]:{','.join([str(i) for i in centroids])}" + "\n")
 
 log.close()
 
