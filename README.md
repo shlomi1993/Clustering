@@ -48,6 +48,6 @@ You can use different centroids initialization file or output log file.
 
 ## Screenshots
 
-Program's output in a terminal:
+Program's output in a log file:
 	
 ![image](https://user-images.githubusercontent.com/72878018/153748171-f7901890-632e-46c8-86e1-49cdbfd0c98c.png)
