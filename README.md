@@ -48,6 +48,8 @@ You can use different centroids initialization file or output log file.
 
 ## Screenshots
 
-Program's output in a log file:
+Program's output log file content after running the algorithm with 2 cenroids:
 	
 ![image](https://user-images.githubusercontent.com/72878018/153748171-f7901890-632e-46c8-86e1-49cdbfd0c98c.png)
+	
+We can see that the algorithm converged after 9 epochs.
