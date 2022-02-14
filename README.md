@@ -39,6 +39,7 @@ By using the short program "centroidsGenerator.py" (in this repo) that gets an i
 
 ## Instructions
 
+To run the program:
 1. Make sure your system meets the requirements above.
 2. Download the code and the dataset from this repo.
 3. Open the terminal and run "python3 kmeans.py dog.jpeg randomCents.txt out.txt"
